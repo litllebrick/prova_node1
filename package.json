@@ -1,0 +1,26 @@
+{
+  "name": "prova-15-09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglas06042001/ProvaProgramacao15-09-2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglas06042001/ProvaProgramacao15-09-2021/issues"
+  },
+  "homepage": "https://github.com/Douglas06042001/ProvaProgramacao15-09-2021#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
